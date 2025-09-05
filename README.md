@@ -29,17 +29,4 @@ I believe in continuous learning, open collaboration, and making technology acce
 
 Thank you for visiting my profile!  
 Want to know more about me, my work, or collaborate on a project? Feel free to reach out.
-
----
-
-## 🚧 *This README is a work in progress!*
-
-Help me personalize it further.  
-**Please share:**
-- Your profession or current role
-- Top skills and technologies
-- Favorite or proudest projects
-- Social links (LinkedIn, website, Twitter, etc.)
-- A fun fact, personal motto, or anything you want the world to know!
-
-*Reply with your info, and I'll refine your profile README to make it truly yours!*
+yours!*
