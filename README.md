@@ -4,22 +4,22 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Construyendo+sistemas+que+importan+%F0%9F%9A%80;Full-Stack+%2B+Infraestructura+%2B+AI+%F0%9F%A4%96;Node.js+%7C+TypeScript+%7C+Python+%7C+React;Mexico+City+%F0%9F%87%B2%F0%9F%87%BD+%7C+UNISA+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+systems+that+actually+matter+%F0%9F%9A%80;Full-Stack+%2B+Infrastructure+%2B+AI+Workflows+%F0%9F%A4%96;Node.js+%7C+TypeScript+%7C+Python+%7C+React;Mexico+City+%F0%9F%87%B2%F0%9F%87%BD+%7C+Open+to+remote+opportunities" alt="Typing SVG" />
   </a>
 </h3>
 
 <div align="center">
-  <a href="https://zerlb.github.io/portafolio_luis_antonio_rosas_gomez/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=58A6FF&color=0D1117" />
-  </a>&nbsp;
-  <a href="mailto:luisrosasgom@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-luisrosasgom%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=ea4335" />
-  </a>&nbsp;
-  <a href="https://github.com/ZERLB">
-    <img src="https://img.shields.io/badge/GitHub-ZERLB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ZERLB&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" />
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&color=0D1117)](https://zerlb.github.io/portafolio_luis_antonio_rosas_gomez/)&nbsp;
+[![Email](https://img.shields.io/badge/luisrosasgom%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:luisrosasgom@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/ZERLB-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZERLB)
+
+<img src="https://komarev.com/ghpvc/?username=ZERLB&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" />
+
+<br>
+
+🇺🇸 English &nbsp;|&nbsp; <a href="#-versión-en-español">🇲🇽 Español ↓</a>
+
 </div>
 
 <br>
@@ -28,19 +28,21 @@
 
 ## 👨🏻‍💻 About Me
 
-Soy desarrollador Full-Stack en **CDMX**, construyendo sistemas institucionales, plataformas internas y soluciones que la gente realmente usa en su día a día.
+I'm a **Full-Stack Developer** based in Mexico City, focused on building institutional systems, internal platforms, and scalable integrations that solve real-world problems.
 
-- 🏢 Desarrollando el **Sistema de Gestión Universitaria (SIGU)** y **NEXUS** para [UNISA](https://www.unisa.cdmx.gob.mx/), infraestructura crítica que impacta miles de usuarios.
-- 🤖 Construí **Savitar** — mi plataforma personal de gestión con integración a Notion, monitor de servidores, AI integrada y más.
-- 🐧 Vivo en la terminal: **Ubuntu/Linux**, servidores con **XCP-ng**, redes con **Tailscale**, procesos con **PM2**.
-- ⚡ Flujo potenciado con **Claude AI**, **Cursor IDE** y **Warp Terminal** — la AI no reemplaza, amplifica.
-- 🎯 Enfocado en: arquitecturas limpias, APIs robustas y sistemas que escalan sin romperse.
+- 🏢 Lead developer of **SIGU** (Institutional University Management System) and **NEXUS** at [UNISA](https://www.unisa.cdmx.gob.mx/) — critical infrastructure serving thousands of users across Mexico City's education system.
+- ⚡ Built **Savitar**, a personal full-stack management platform featuring real-time server monitoring, bidirectional Notion sync, an AI assistant, habit tracking, and an in-browser SSH terminal.
+- 🐧 Daily-driven on **Ubuntu/Linux** — managing servers, VMs via **XCP-ng**, and private networks with **Tailscale**.
+- 🤖 AI-augmented workflow: **Claude AI**, **Cursor IDE**, **Warp Terminal** — AI amplifies output, doesn't replace thinking.
+- 🎯 I care about: clean architecture, robust APIs, and systems that scale without breaking under pressure.
+
+> 💼 **Available for freelance & remote opportunities.** I build backends, APIs, admin dashboards, and full-stack systems. Let's talk → [luisrosasgom@gmail.com](mailto:luisrosasgom@gmail.com)
 
 <br>
 
 ---
 
-## 🛠️ Stack Actual
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -79,13 +81,9 @@ Soy desarrollador Full-Stack en **CDMX**, construyendo sistemas institucionales,
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZERLB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZERLB&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZERLB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="49%" />
 </div>
-
-<br>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZERLB&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="98%" />
 </div>
@@ -94,39 +92,31 @@ Soy desarrollador Full-Stack en **CDMX**, construyendo sistemas institucionales,
 
 ---
 
-## 🔥 Proyectos Destacados
+## 🔥 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚡ Savitar</h3>
-      <p align="center">Plataforma personal de gestión full-stack — monitor de servidores en tiempo real, integración bidireccional con Notion, sistema de hábitos, AI integrada y terminal SSH desde el navegador.</p>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres" />
-      </div>
+      <p align="center">Personal full-stack management platform — real-time server monitoring, bidirectional Notion integration, habit tracking system, built-in AI assistant, and SSH terminal from the browser.</p>
+      <div align="center"><img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres" /></div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏢 <a href="https://github.com/alexarwey-emp/sigu-core">SIGU Core</a></h3>
-      <p align="center">Sistema de Gestión Universitaria Institucional para UNISA. Infraestructura Full-Stack crítica con impacto en miles de usuarios del sistema educativo de CDMX.</p>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,py,postgres,docker" />
-      </div>
+      <p align="center">Institutional University Management System for UNISA. Full-Stack critical infrastructure impacting thousands of users across Mexico City's educational system.</p>
+      <div align="center"><img src="https://skillicons.dev/icons?i=nodejs,py,postgres,docker" /></div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔗 <a href="https://github.com/ZERLB/NEXUS">NEXUS</a></h3>
-      <p align="center">Proyecto base de integración de sistemas y redes. Experimentación con arquitecturas conectadas, automatización y manejo de infraestructura distribuida.</p>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=py,ubuntu,bash" />
-      </div>
+      <p align="center">Core integration project for connected systems and networks. Experimentation with distributed infrastructure, automation, and innovative system integrations.</p>
+      <div align="center"><img src="https://skillicons.dev/icons?i=py,ubuntu,bash" /></div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 <a href="https://github.com/ZERLB/sistema-titulacion-comprobante">Sistema Titulación</a></h3>
-      <p align="center">Plataforma para gestión y procesamiento de procesos de titulación y emisión de constancias en entornos universitarios.</p>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=js,mysql,php,html" />
-      </div>
+      <h3 align="center">🎓 <a href="https://github.com/ZERLB/sistema-titulacion-comprobante">Graduation System</a></h3>
+      <p align="center">Platform for streamlining certification processes and graduation certificate issuance in university environments.</p>
+      <div align="center"><img src="https://skillicons.dev/icons?i=js,mysql,php,html" /></div>
     </td>
   </tr>
 </table>
@@ -135,7 +125,32 @@ Soy desarrollador Full-Stack en **CDMX**, construyendo sistemas institucionales,
 
 ---
 
+## 🇲🇽 Versión en Español
+
+<details>
+<summary><b>👆 Click para leer en español</b></summary>
+
+<br>
+
+## 👨🏻‍💻 Sobre mí
+
+Soy desarrollador **Full-Stack** en **CDMX**, construyendo sistemas institucionales, plataformas internas y soluciones que la gente realmente usa en su día a día.
+
+- 🏢 Desarrollador principal de **SIGU** (Sistema Institucional de Gestión Universitaria) y **NEXUS** en [UNISA](https://www.unisa.cdmx.gob.mx/) — infraestructura crítica que impacta miles de usuarios del sistema educativo de la Ciudad de México.
+- ⚡ Construí **Savitar**, mi plataforma personal de gestión full-stack con monitor de servidores en tiempo real, integración bidireccional con Notion, asistente AI, sistema de hábitos y terminal SSH desde el navegador.
+- 🐧 Vivo en la terminal: **Ubuntu/Linux**, servidores virtualizados con **XCP-ng**, redes privadas con **Tailscale**, procesos con **PM2**.
+- 🤖 Flujo potenciado con **Claude AI**, **Cursor IDE** y **Warp Terminal** — la AI no reemplaza, amplifica.
+- 🎯 Me importa: arquitecturas limpias, APIs robustas y sistemas que escalen sin romperse.
+
+> 💼 **Disponible para proyectos freelance y trabajo remoto.** Construyo backends, APIs, dashboards administrativos y sistemas full-stack completos. Escríbeme → [luisrosasgom@gmail.com](mailto:luisrosasgom@gmail.com)
+
+</details>
+
+<br>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
-  <p><strong>¿Algo interesante? <a href="https://github.com/ZERLB?tab=repositories">Revisa mis repos ↑</a></strong></p>
+  <p><strong>Interested in working together? <a href="mailto:luisrosasgom@gmail.com">Let's talk →</a></strong></p>
 </div>
