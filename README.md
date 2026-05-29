@@ -98,12 +98,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📋 Facturación Electrónica DTE</h3>
-      <p>Integración del módulo de Documentos Tributarios Electrónicos (DTE), firmas digitales y validación automática ante entidades tributarias.</p>
+      <h3>⚙️ Suite DTE (Dirección de Tecnologías)</h3>
+      <p>Conjunto de aplicativos internos para la mesa de ayuda (Soporte Técnico), préstamos y control de inventario de hardware (Audiovisual/Equipos), y administración del seguro facultativo.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
     </td>
     <td width="50%" valign="top">
