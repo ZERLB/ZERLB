@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a3c,100:0d1117&height=220&section=header&text=Luis%20Antonio%20Rosas%20G.&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20XCP-ng&descSize=16&descAlignY=60&descColor=a78bfa" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ZERLB/ZERLB/main/coding.gif" width="100%" style="border-radius:12px"/>
+</div>
+
+<div align="center">
+  <h1>Luis Antonio Rosas G.</h1>
+  <p><strong>Systems Engineer · Full Stack Dev · XCP-ng</strong></p>
 </div>
 
 <div align="center">
