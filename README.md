@@ -56,7 +56,7 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZERLB&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=7c3aed&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=64748b&dates=475569&stroke=1e1b4b" width="55%"/>
+  <img src="https://ghchart.rshah.org/7c3aed/ZERLB" width="100%" alt="GitHub Contribution Graph"/>
 </div>
 
 <div align="center">
