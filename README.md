@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZERLB/ZERLB/main/coding.gif" width="100%" style="border-radius:12px"/>
+  <img src="https://raw.githubusercontent.com/ZERLB/ZERLB/main/coding.gif" width="60%" style="border-radius:12px"/>
 </div>
 
 <div align="center">
