@@ -53,33 +53,51 @@
 
 ---
 
-## 📊 Stats
+## 🚀 Proyectos destacados
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/7c3aed/ZERLB" width="100%" alt="GitHub Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZERLB&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
----
-
-## 🚀 Proyectos
-
-<div align="center">
-
-| Proyecto | Descripción | Stack |
-|:---|:---|:---|
-| **Savitar** | Dashboard de infraestructura — SSH real-time, métricas XCP-ng, Notion sync | TypeScript · React · Prisma |
-| **NEXUS** | Sistema institucional UNISA · **2,000+ usuarios diarios** | Node.js · PostgreSQL |
-| **SIGU** | Titulación electrónica con grados SEP vía SOAP/XML | TypeScript · XML |
-| **Bulk Mailer** | Motor de campañas con throttling y bounce validation | Node.js · SMTP |
-| **Consultorio Clínico** | Sistema de expedientes médicos full-stack | React · PostgreSQL |
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Savitar</h3>
+      <p>Dashboard de infraestructura con terminales SSH en tiempo real, panel XCP-ng para 24 VMs, métricas de servidores y sincronización con Notion.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XCP--ng-E2761B?style=flat-square&logo=xen&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 NEXUS</h3>
+      <p>Sistema institucional de UNISA con más de <strong>2,000 usuarios diarios</strong>. Gestión académica, reportes y módulos administrativos integrados.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 SIGU</h3>
+      <p>Sistema de titulación electrónica integrado con la SEP mediante SOAP/XML para emisión de grados electrónicos oficiales.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SOAP%2FXML-FF6B35?style=flat-square&logo=w3c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📧 Bulk Mailer</h3>
+      <p>Motor de campañas de email con throttling inteligente, validación de bounces y reportes de entrega en tiempo real.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SMTP-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
