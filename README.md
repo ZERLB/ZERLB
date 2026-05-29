@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=A78BFA&center=true&vCenter=true&width=480&lines=T.O.C.+en+UNISA+%E2%80%94+2%2C000%2B+usuarios+diarios;Full+Stack+Dev+%7C+TypeScript+%2B+React+%2B+Node.js;Infra+XCP-ng+%C2%B7+24+VMs+%C2%B7+256+GB+RAM;Cisco+CCNA+%7C+VLANs+%7C+Hillstone+Firewall;AI-powered+dev+%E2%80%94+Claude+%2B+Antigravity+IDE" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=A78BFA&center=true&vCenter=true&width=480&lines=T.O.C.+en+UNISA+%E2%80%94+2%2C000%2B+usuarios+diarios;Full+Stack+Dev+%7C+TypeScript+%2B+React+%2B+Node.js;Administraci%C3%B3n+de+Infraestructura+Virtual;CCNA+%7C+Segmentaci%C3%B3n+de+VLANs;AI-powered+workflow+%E2%80%94+Claude+%2B+Antigravity+IDE" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -42,7 +42,6 @@
 <img src="https://img.shields.io/badge/XCP--ng_8.2-E2761B?style=for-the-badge&logo=xen&logoColor=white"/>
 <img src="https://img.shields.io/badge/HAProxy-1B609E?style=for-the-badge&logo=haproxy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Synology_NAS-00A0E9?style=for-the-badge&logo=synology&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailscale_VPN-563D7C?style=for-the-badge&logo=tailscale&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Moodle_LMS-F35C24?style=for-the-badge&logo=moodle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Koha_ILS-005B94?style=for-the-badge&logo=open-access&logoColor=white"/>
@@ -160,8 +159,8 @@
 │                    │   Active Storage & File Sync    │                      │
 │                    └─────────────────────────────────┘                      │
 │                                                                             │
-│  Virtualization Host: XCP-ng 8.2 (25 VMs · 72 vCPUs · 256GB RAM)            │
-│  Security Layer: Tailscale Mesh VPN · Core L3 Switches · Hillstone Firewall │
+│  Virtualization Host: XCP-ng 8.2 (25 VMs · 72 vCPUs)                        │
+│  Security Layer: Secure Mesh VPN · Core L3 Switches · Network Firewall      │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -198,8 +197,9 @@ Soy **Ingeniero en Sistemas Computacionales** y **Full Stack Developer** especia
 - **LMS clusters:** Entornos académicos basados en Moodle (Campus Virtual, Moodle PAI) con arquitecturas de DB segregadas.
 - **ERP interno:** Desarrollo e implementación de la suite de almacén y bienes **SGABS**.
 - **Virtualización:** Gestión del clúster físico XCP-ng 8.2 con 25 máquinas virtuales activas.
-- **Bases de Datos:** Diseño y mantenimiento de clusters de PostgreSQL, replicaciones MySQL y bibliotecas automatizadas Koha.
-- **Redes & Seguridad:** Cisco CCNA, switches capa 3 core, segmentación de VLANs, VPNs con Tailscale y firewalls de Hillstone.
+- **Bases de Datos:** Mantenimiento de clústeres PostgreSQL, replicaciones MySQL en caliente y biblioteca automatizada Koha.
+- **Automatización & Scripting:** Desarrollo de scripts en Bash/Python para tareas programadas (Crontabs), respaldos concurrentes de bases de datos y sincronización de almacenamiento en red.
+- **Redes & Seguridad:** Cisco CCNA, switches capa 3 core, segmentación de VLANs, VPNs seguras y firewalls perimetrales.
 
 > 💼 **Disponible para freelance y proyectos remotos** → [luisrosasgom@gmail.com](mailto:luisrosasgom@gmail.com)
 
