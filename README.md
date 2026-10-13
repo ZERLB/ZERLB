@@ -6,11 +6,11 @@
 
 <div align="center">
 
-<a href="https://zerlb.github.io/portafolio_luis_antonio_rosas_gomez/?lang=en"><img src="https://img.shields.io/badge/Portfolio-zerlb.github.io-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://zerlb.github.io/portafolio_luis_antonio_rosas_gomez/?lang=en"><img src="https://img.shields.io/badge/Portfolio-zerlb.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 &nbsp;
 <a href="mailto:luisrosasgom@gmail.com"><img src="https://img.shields.io/badge/Email-luisrosasgom%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Mexico%20City-GMT--6-a78bfa?style=for-the-badge" alt="Mexico City">
+<img src="https://img.shields.io/badge/Mexico%20City-GMT--6-475569?style=for-the-badge" alt="Mexico City">
 
 </div>
 
@@ -28,19 +28,19 @@
 
 <br>
 
-## 🧭 What I do
+## What I do
 
 | | |
 |---|---|
-| 🧱 **Full stack TypeScript** | NestJS and Express APIs on MySQL or PostgreSQL with Prisma; React with Vite and Tailwind; PWAs, JWT, queues and cron jobs. Systems serving **2,000+ daily users**. |
-| 🖧 **Infrastructure and networking** | XCP-ng virtualization pool, 27 Linux servers, HAProxy load balancers, an encrypted management VPN, VLANs and core switches. CCNA 1 to 4. |
-| 🗄️ **Data that does not get lost** | One dedicated database per system, major MySQL upgrades with written reports, nightly backups that are opened and verified, rotation and disk alerts. |
-| 🤖 **Automation and AI** | Bash, Python and Node for operations; AI-assisted development with Claude Code, Antigravity and Codex, plus a plugin of my own that gives them memory and rules. |
-| 🎮 **Game development** | Godot 4 and GDScript: an open-world game set in Mexico with a PlayStation 1 look, shaders and level design. |
+| **Full stack TypeScript** | NestJS and Express APIs on MySQL or PostgreSQL with Prisma; React with Vite and Tailwind; PWAs, JWT, queues and cron jobs. Systems serving **2,000+ daily users**. |
+| **Infrastructure and networking** | XCP-ng virtualization pool, 27 Linux servers, HAProxy load balancers, an encrypted management VPN, VLANs and core switches. CCNA 1 to 4. |
+| **Data that does not get lost** | One dedicated database per system, major MySQL upgrades with written reports, nightly backups that are opened and verified, rotation and disk alerts. |
+| **Automation and AI** | Bash, Python and Node for operations; AI-assisted development with Claude Code, Antigravity and Codex, plus a plugin of my own that gives them memory and rules. |
+| **Game development** | Godot 4 and GDScript: an open-world game set in Mexico with a PlayStation 1 look, shaders and level design. |
 
 <br>
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 <br>
 
-## 🖥️ Infrastructure I run
+## Infrastructure I run
 
 A simplified topology with no names or addresses: just enough to understand what I run and how it connects (figures from October 2026).
 
@@ -93,14 +93,14 @@ A simplified topology with no names or addresses: just enough to understand what
 
 <br>
 
-## 🚀 Projects
+## Projects
 
 Almost everything is institutional code in private repositories, so each system is described by what it does.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Savitar · operations center</h3>
+      <h3>Savitar · operations center</h3>
       <p>My own app to run all 27 servers from one place: SSH terminals in the browser, monitoring of servers, services and URLs, verified nightly backups, firewall, XCP-ng VM control and push alerts. It also runs my life: finances, calendar, projects and lists, with AI.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -112,7 +112,7 @@ Almost everything is institutional code in private repositories, so each system 
       <sub>Private · in production</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 SIGU · university management</h3>
+      <h3>SIGU · university management</h3>
       <p>NestJS backend with SQL and stored procedures on MySQL, and an installable React app for students, applicants and the Registrar: schedules, My QR, re-enrollment, procedures, certificates and grades.</p>
       <p>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
@@ -125,7 +125,7 @@ Almost everything is institutional code in private repositories, so each system 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ NEXUS v2 · academic procedures</h3>
+      <h3>NEXUS v2 · academic procedures</h3>
       <p>Full TypeScript rewrite of the institutional system, in production since 2026: grade reports, electives, schedules, social service, graduate studies, digital IDs, graduation modality, ECOE and electronic degrees signed before the SEP.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -135,7 +135,7 @@ Almost everything is institutional code in private repositories, so each system 
       <sub>In production · private code</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🩺 Clinical placements · Medicine and Nursing</h3>
+      <h3>Clinical placements · Medicine and Nursing</h3>
       <p>Assignment and follow-up of clinical placements: cycles, sites, groups, roster, GPA-based selection windows, swaps, withdrawals, occupancy and reports for academic coordination.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -147,7 +147,7 @@ Almost everything is institutional code in private repositories, so each system 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📝 Assessment items · educational evaluation</h3>
+      <h3>Assessment items · educational evaluation</h3>
       <p>Specifications, answer keys and teacher assignment, item writing, technical and disciplinary review, working sessions, minutes and logs for the Educational Assessment Office.</p>
       <p>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
@@ -157,7 +157,7 @@ Almost everything is institutional code in private repositories, so each system 
       <sub>In production · private code</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ UNISA virtual assistant · AI with voice</h3>
+      <h3>UNISA virtual assistant · AI with voice</h3>
       <p>Institutional conversational assistant with Google sign-in, its own Node API and a text-to-speech service; it looks up the university systems to answer the community.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -170,7 +170,7 @@ Almost everything is institutional code in private repositories, so each system 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 100 UNISOS dijeron · live game show</h3>
+      <h3>100 UNISOS dijeron · live game show</h3>
       <p>Medicine and Nursing quiz show in the style of “Family Feud”: public board for the big screen, keyboard operator, final round, results and participant registration by QR validated with institutional Google.</p>
       <p>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
@@ -180,7 +180,7 @@ Almost everything is institutional code in private repositories, so each system 
       <sub>In production · private code</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Mente · Claude Code plugin</h3>
+      <h3>Mente · Claude Code plugin</h3>
       <p>Turns my Obsidian vault into Claude Code's memory: searches context, recommends notes, flags stale data, draws a live map and coordinates several Claude and Codex sessions editing at the same time without clobbering each other. My own fork of Neuromapa (MIT).</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -192,7 +192,7 @@ Almost everything is institutional code in private repositories, so each system 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧰 DTE suite · 7 PHP tools</h3>
+      <h3>DTE suite · 7 PHP tools</h3>
       <p>Internal tools of the Technology Directorate: student insurance, SGABS (warehouse and procurement), help desk, Campus Tickets (Laravel), AV equipment loans, equipment loans and QR-based technical support. Separate production and test environments.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
@@ -202,7 +202,7 @@ Almost everything is institutional code in private repositories, so each system 
       <sub>In production · private code</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Proyecto México · open world in Godot 4</h3>
+      <h3>Proyecto México · open world in Godot 4</h3>
       <p>Personal open-world video game set in Mexico with a PlayStation 1 look, built in Godot 4 with GDScript: my lab for low-res graphics, shaders and level design.</p>
       <p>
         <img src="https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4">
@@ -218,7 +218,7 @@ Almost everything is institutional code in private repositories, so each system 
 
 <br>
 
-## 🧪 How I work
+## How I work
 
 - **Prove it really works.** A change is done when it has been walked through in a real headless browser with test profiles and screenshots reviewed one by one. If it fails, fix and repeat.
 - **Document only what is verified.** My knowledge base tells *configured*, *deployed* and *working* apart. Every note has a date, a source and its limits; credentials live separately, never in code.
@@ -227,7 +227,7 @@ Almost everything is institutional code in private repositories, so each system 
 
 <br>
 
-## 🎓 Certifications
+## Certifications
 
 | Cisco Networking Academy | Other |
 |---|---|
@@ -252,7 +252,7 @@ Almost everything is institutional code in private repositories, so each system 
 - **Savitar**, mi centro de operación: terminales SSH en el navegador, monitor de servidores, servicios y URL, respaldos verificados, firewall, control de VMs XCP-ng y avisos push.
 - **Videojuegos:** Godot 4 y GDScript; un mundo abierto mexicano con estética de PlayStation 1.
 
-💼 **Disponible para freelance y proyectos remotos** → [luisrosasgom@gmail.com](mailto:luisrosasgom@gmail.com) · [Portafolio en español](https://zerlb.github.io/portafolio_luis_antonio_rosas_gomez/)
+**Disponible para freelance y proyectos remotos** → [luisrosasgom@gmail.com](mailto:luisrosasgom@gmail.com) · [Portafolio en español](https://zerlb.github.io/portafolio_luis_antonio_rosas_gomez/)
 
 </details>
 
