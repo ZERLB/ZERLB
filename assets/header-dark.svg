@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Luis Antonio Rosas Gómez · Ingeniero en Sistemas · Full Stack e Infraestructura" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Luis Antonio Rosas Gómez · Systems Engineer · Full Stack · Infrastructure" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1020"/>
@@ -39,13 +39,11 @@
   </g>
   <rect x="0.5" y="0.5" width="1199" height="319" rx="24" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
 
-  <!-- texto -->
-  <text x="64" y="92" fill="#8b93a7" font-size="15" letter-spacing=".22em" font-weight="700">ZERLB · CIUDAD DE MÉXICO</text>
+  <text x="64" y="92" fill="#8b93a7" font-size="15" letter-spacing=".22em" font-weight="700">ZERLB · MEXICO CITY</text>
   <text x="64" y="158" fill="#f3f4f8" font-size="58" font-weight="800" letter-spacing="-.02em">Luis Antonio Rosas Gómez</text>
-  <text x="64" y="204" fill="url(#acc)" font-size="26" font-weight="700">Ingeniero en Sistemas · Full Stack · Infraestructura</text>
-  <text x="64" y="244" fill="#aab2c5" font-size="17">Construyo sistemas web completos y opero la infraestructura donde corren.</text>
+  <text x="64" y="204" fill="url(#acc)" font-size="26" font-weight="700">Systems Engineer · Full Stack · Infrastructure</text>
+  <text x="64" y="244" fill="#aab2c5" font-size="17">I build complete web systems and run the infrastructure they live on.</text>
 
-  <!-- consola -->
   <g transform="translate(64 268)">
     <rect x="0" y="0" width="610" height="34" rx="10" fill="#0a0f1d" stroke="#ffffff" stroke-opacity=".1"/>
     <text x="16" y="23" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$</text>
@@ -55,17 +53,15 @@
     </rect>
   </g>
 
-  <!-- chips derecha -->
   <g font-size="13" font-weight="700" letter-spacing=".06em">
     <rect x="800" y="236" width="150" height="34" rx="17" fill="#111a2e" stroke="#22d3ee" stroke-opacity=".5"/>
-    <text x="875" y="258" text-anchor="middle" fill="#22d3ee">27 SERVIDORES</text>
+    <text x="875" y="258" text-anchor="middle" fill="#22d3ee">27 SERVERS</text>
     <rect x="962" y="236" width="174" height="34" rx="17" fill="#111a2e" stroke="#a78bfa" stroke-opacity=".5"/>
-    <text x="1049" y="258" text-anchor="middle" fill="#a78bfa">2 000+ USUARIOS</text>
+    <text x="1049" y="258" text-anchor="middle" fill="#a78bfa">2,000+ USERS</text>
     <rect x="800" y="280" width="336" height="34" rx="17" fill="#111a2e" stroke="#fbbf24" stroke-opacity=".5"/>
-    <text x="968" y="302" text-anchor="middle" fill="#fbbf24">20+ SISTEMAS EN PRODUCCIÓN</text>
+    <text x="968" y="302" text-anchor="middle" fill="#fbbf24">20+ SYSTEMS IN PRODUCTION</text>
   </g>
 
-  <!-- línea animada -->
   <path d="M64 318 H1136" stroke="url(#acc)" stroke-width="3" stroke-linecap="round" stroke-dasharray="14 10">
     <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="2s" repeatCount="indefinite"/>
   </path>
