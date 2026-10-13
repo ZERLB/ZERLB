@@ -12,7 +12,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Ciudad%20de%20M%C3%A9xico-GMT--6-a78bfa?style=for-the-badge" alt="Ciudad de México">
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=ZERLB&style=for-the-badge&color=6d28d9&label=VISITAS" alt="Visitas al perfil">
+<img src="https://komarev.com/ghpvc/?username=ZERLB&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" alt="Visitas al perfil">
 
 </div>
 
