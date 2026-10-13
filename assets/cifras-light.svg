@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Cifras: 27 servidores, 18 máquinas virtuales, 20 o más sistemas, 8 bases respaldadas cada noche, 16 direcciones vigiladas, 4 CCNA" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Cifras: 27 servidores, 18 máquinas virtuales, 20 o más sistemas, 2 000 o más usuarios, monitoreo 24/7, 4 módulos CCNA" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
   <defs>
     <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#0891b2"/><stop offset="1" stop-color="#7c3aed"/>
@@ -9,13 +9,13 @@
       <rect x="0" y="0" width="190" height="150" rx="18" fill="#ffffff" stroke="#0f172a" stroke-opacity=".10"/>
       <text x="95" y="74" text-anchor="middle" fill="url(#acc)" font-size="46">27</text>
       <text x="95" y="104" text-anchor="middle" fill="#0f172a" font-size="14" font-weight="700">servidores</text>
-      <text x="95" y="124" text-anchor="middle" fill="#5b6478" font-size="12" font-weight="500">Ubuntu · XCP-ng · NAS</text>
+      <text x="95" y="124" text-anchor="middle" fill="#5b6478" font-size="12" font-weight="500">Linux · XCP-ng · NAS</text>
     </g>
     <g transform="translate(202 0)">
       <rect x="0" y="0" width="190" height="150" rx="18" fill="#ffffff" stroke="#0f172a" stroke-opacity=".10"/>
       <text x="95" y="74" text-anchor="middle" fill="url(#acc)" font-size="46">18</text>
       <text x="95" y="104" text-anchor="middle" fill="#0f172a" font-size="14" font-weight="700">VMs en XCP-ng</text>
-      <text x="95" y="124" text-anchor="middle" fill="#5b6478" font-size="12" font-weight="500">Dell R740xd · 8.2</text>
+      <text x="95" y="124" text-anchor="middle" fill="#5b6478" font-size="12" font-weight="500">pool de virtualización</text>
     </g>
     <g transform="translate(404 0)">
       <rect x="0" y="0" width="190" height="150" rx="18" fill="#ffffff" stroke="#0f172a" stroke-opacity=".10"/>
@@ -25,15 +25,15 @@
     </g>
     <g transform="translate(606 0)">
       <rect x="0" y="0" width="190" height="150" rx="18" fill="#ffffff" stroke="#0f172a" stroke-opacity=".10"/>
-      <text x="95" y="74" text-anchor="middle" fill="url(#acc)" font-size="46">8</text>
-      <text x="95" y="104" text-anchor="middle" fill="#0f172a" font-size="14" font-weight="700">bases / noche</text>
-      <text x="95" y="124" text-anchor="middle" fill="#5b6478" font-size="12" font-weight="500">respaldos verificados</text>
+      <text x="95" y="74" text-anchor="middle" fill="url(#acc)" font-size="40">2 000+</text>
+      <text x="95" y="104" text-anchor="middle" fill="#0f172a" font-size="14" font-weight="700">usuarios diarios</text>
+      <text x="95" y="124" text-anchor="middle" fill="#5b6478" font-size="12" font-weight="500">sistemas universitarios</text>
     </g>
     <g transform="translate(808 0)">
       <rect x="0" y="0" width="190" height="150" rx="18" fill="#ffffff" stroke="#0f172a" stroke-opacity=".10"/>
-      <text x="95" y="74" text-anchor="middle" fill="url(#acc)" font-size="46">16</text>
-      <text x="95" y="104" text-anchor="middle" fill="#0f172a" font-size="14" font-weight="700">URL vigiladas</text>
-      <text x="95" y="124" text-anchor="middle" fill="#5b6478" font-size="12" font-weight="500">monitor + alertas 24/7</text>
+      <text x="95" y="74" text-anchor="middle" fill="url(#acc)" font-size="46">24/7</text>
+      <text x="95" y="104" text-anchor="middle" fill="#0f172a" font-size="14" font-weight="700">monitoreo</text>
+      <text x="95" y="124" text-anchor="middle" fill="#5b6478" font-size="12" font-weight="500">servicios, respaldos y alertas</text>
     </g>
     <g transform="translate(1010 0)">
       <rect x="0" y="0" width="190" height="150" rx="18" fill="#ffffff" stroke="#0f172a" stroke-opacity=".10"/>
