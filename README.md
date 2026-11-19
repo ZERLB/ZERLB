@@ -37,6 +37,7 @@
 | **Data that does not get lost** | One dedicated database per system, major MySQL upgrades with written reports, nightly backups that are opened and verified, rotation and disk alerts. |
 | **Automation and AI** | Bash, Python and Node for operations; AI-assisted development with Claude Code, Antigravity and Codex, plus a plugin of my own that gives them memory and rules. |
 | **Game development** | Godot 4 and GDScript: an open-world game set in Mexico with a PlayStation 1 look, shaders and level design. |
+| **Programmatic video** | Videos built from code with HyperFrames and FFmpeg: captions, edits and short clips. |
 
 <br>
 
@@ -251,6 +252,7 @@ Almost everything is institutional code in private repositories, so each system 
 - **Automatización e IA:** Bash, Python y Node para operar; desarrollo asistido con Claude Code, Antigravity y Codex, más **Mente**, mi plugin de Claude Code que convierte una bóveda de Obsidian en memoria persistente y coordina varios agentes a la vez.
 - **Savitar**, mi centro de operación: terminales SSH en el navegador, monitor de servidores, servicios y URL, respaldos verificados, firewall, control de VMs XCP-ng y avisos push.
 - **Videojuegos:** Godot 4 y GDScript; un mundo abierto mexicano con estética de PlayStation 1.
+- **Video programático:** videos hechos con código, con HyperFrames y FFmpeg.
 
 **Disponible para freelance y proyectos remotos** → [luisrosasgom@gmail.com](mailto:luisrosasgom@gmail.com) · [Portafolio en español](https://zerlb.github.io/portafolio_luis_antonio_rosas_gomez/)
 
