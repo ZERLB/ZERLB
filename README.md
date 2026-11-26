@@ -44,7 +44,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,react,vite,tailwind,nextjs&theme=dark" alt="Node.js, NestJS, Express, Prisma, React, Vite, Tailwind, Next.js" height="44">
 
 **Data and servers**<br>
-<img src="https://skillicons.dev/icons?i=postgres,mariadb,linux,ubuntu,nginx,docker,git,github&theme=dark" alt="PostgreSQL, MariaDB, Linux, Ubuntu, Nginx, Docker, Git, GitHub" height="44">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" height="44"> &nbsp;<img src="https://raw.githubusercontent.com/ZERLB/ZERLB/main/assets/mariadb.svg" alt="MariaDB" height="44"> &nbsp;<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,git,github&theme=dark" alt="Linux, Ubuntu, Nginx, Docker, Git, GitHub" height="44">
 
 **Virtualization, networking and platforms**<br>
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
