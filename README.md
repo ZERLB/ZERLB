@@ -18,16 +18,16 @@
 
 > **I build complete web systems and run the infrastructure they live on.**
 > Computer Systems Engineer at the Technology Directorate of **Universidad de la Salud** (Mexico City).
-> On the code side: TypeScript, NestJS, React, PHP and Python. On the infrastructure side: Linux, MySQL, PostgreSQL and Moodle. And, for fun, video games in Godot 4.
+> On the code side: TypeScript, JavaScript, NestJS and React. On the infrastructure side: Linux, PostgreSQL, MariaDB and Moodle. And, for fun, video games in Godot 4.
 
 ## What I do
 
 | | |
 |---|---|
-| **Full stack TypeScript** | NestJS and Express APIs on MySQL or PostgreSQL with Prisma; React with Vite and Tailwind; JWT, queues and cron jobs. Systems serving **2,000+ daily users**. |
+| **Full stack TypeScript** | NestJS and Express APIs on PostgreSQL or MariaDB with Prisma; React with Vite and Tailwind; JWT, queues and cron jobs. Systems serving **2,000+ daily users**. |
 | **Infrastructure and networking** | Linux servers, virtualization, networking and backups. CCNA 1 to 4. |
-| **Data** | MySQL and PostgreSQL: dedicated databases per system, major version upgrades with written reports and backups. |
-| **Automation and AI** | Bash, Python and Node scripts for operations; AI applied to development. |
+| **Data** | PostgreSQL and MariaDB: dedicated databases per system, major version upgrades with written reports and backups. |
+| **Automation and AI** | Node scripts and task automation for operations; AI applied to development. |
 | **Game development** | Godot 4 and GDScript: an open-world game set in Mexico with a PlayStation 1 look, shaders and level design. |
 | **Programmatic video** | Videos built from code with HyperFrames and FFmpeg: captions, edits and short clips. |
 
@@ -38,13 +38,13 @@
 <div align="center">
 
 **Languages**<br>
-<img src="https://skillicons.dev/icons?i=ts,js,php,py,bash,html,css,godot&theme=dark" alt="TypeScript, JavaScript, PHP, Python, Bash, HTML, CSS, GDScript" height="44">
+<img src="https://skillicons.dev/icons?i=ts,js&theme=dark" alt="TypeScript, JavaScript" height="44">
 
 **Backend and frontend**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,laravel,react,vite,tailwind,nextjs&theme=dark" alt="Node.js, NestJS, Express, Prisma, Laravel, React, Vite, Tailwind, Next.js" height="44">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,react,vite,tailwind,nextjs&theme=dark" alt="Node.js, NestJS, Express, Prisma, React, Vite, Tailwind, Next.js" height="44">
 
 **Data and servers**<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,linux,ubuntu,nginx,docker,git,github&theme=dark" alt="MySQL, PostgreSQL, Redis, SQLite, Linux, Ubuntu, Nginx, Docker, Git, GitHub" height="44">
+<img src="https://skillicons.dev/icons?i=postgres,mariadb,linux,ubuntu,nginx,docker,git,github&theme=dark" alt="PostgreSQL, MariaDB, Linux, Ubuntu, Nginx, Docker, Git, GitHub" height="44">
 
 **Virtualization, networking and platforms**<br>
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
@@ -75,11 +75,10 @@ Almost everything is institutional code in private repositories, so each system 
   <tr>
     <td width="50%" valign="top">
       <h3>SIGU · university management</h3>
-      <p>NestJS backend on MySQL and a React app for students, applicants and the Registrar: schedules, My QR, re-enrollment, procedures, certificates and grades.</p>
+      <p>NestJS backend and a React app for students, applicants and the Registrar: schedules, My QR, re-enrollment, procedures, certificates and grades.</p>
       <p>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
               </p>
       <sub>In production · private code</sub>
     </td>
@@ -101,7 +100,6 @@ Almost everything is institutional code in private repositories, so each system 
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
       </p>
       <sub>In production · private code</sub>
     </td>
@@ -111,7 +109,6 @@ Almost everything is institutional code in private repositories, so each system 
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
       </p>
       <sub>In production · private code</sub>
     </td>
@@ -123,7 +120,6 @@ Almost everything is institutional code in private repositories, so each system 
       <p>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
       </p>
       <sub>In production · private code</sub>
     </td>
@@ -134,19 +130,17 @@ Almost everything is institutional code in private repositories, so each system 
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/LLM_API-D97757?style=flat-square" alt="LLM API">
         <img src="https://img.shields.io/badge/TTS-6B7280?style=flat-square" alt="TTS">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
       </p>
       <sub>In production · private code</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>DTE suite · 7 PHP tools</h3>
-      <p>Internal tools of the Technology Directorate: student insurance, SGABS (warehouse and procurement), help desk, Campus Tickets (Laravel), AV equipment loans, equipment loans and QR-based technical support. Separate production and test environments.</p>
+      <h3>DTE suite · 7 web tools</h3>
+      <p>Internal tools of the Technology Directorate: student insurance, SGABS (warehouse and procurement), help desk, Campus Tickets, AV equipment loans, equipment loans and QR-based technical support. Separate production and test environments.</p>
       <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache">
       </p>
       <sub>In production · private code</sub>
     </td>
@@ -163,7 +157,7 @@ Almost everything is institutional code in private repositories, so each system 
   </tr>
 </table>
 
-**Also:** Nobel, a social-emotional platform with a Socratic AI companion · university clinic records · English courses · bulk email sender · QR attendance · major MySQL upgrade with a written report · Moodle, Canvas, Koha and DSpace · [this portfolio](https://github.com/ZERLB/portafolio_luis_antonio_rosas_gomez) (open source).
+**Also:** Nobel, a social-emotional platform with a Socratic AI companion · university clinic records · English courses · bulk email sender · QR attendance · major database upgrade with a written report · Moodle, Canvas, Koha and DSpace · [this portfolio](https://github.com/ZERLB/portafolio_luis_antonio_rosas_gomez) (open source).
 
 <br>
 
@@ -184,11 +178,11 @@ Almost everything is institutional code in private repositories, so each system 
 
 **Construyo sistemas web completos y me encargo de la infraestructura donde corren.** Ingeniero en Sistemas Computacionales en la Dirección de Tecnologías de la **Universidad de la Salud** (CDMX).
 
-- **Full stack TypeScript:** APIs NestJS y Express sobre MySQL o PostgreSQL con Prisma; React con Vite y Tailwind; JWT, colas y crons. Sistemas con **más de 2 000 usuarios diarios** (SIGU, NEXUS v2, campos clínicos, reactivos, cursos de inglés, un asistente virtual con voz y un juego en vivo).
+- **Full stack TypeScript:** APIs NestJS y Express sobre PostgreSQL o MariaDB con Prisma; React con Vite y Tailwind; JWT, colas y crons. Sistemas con **más de 2 000 usuarios diarios** (SIGU, NEXUS v2, campos clínicos, reactivos, cursos de inglés, un asistente virtual con voz y un juego en vivo).
 - **Infraestructura y redes:** servidores Linux, virtualización, redes y respaldos. CCNA 1 a 4.
 - **Plataformas:** Moodle, Canvas, Koha, DSpace, WordPress y Odoo.
-- **Datos:** MySQL y PostgreSQL, una base dedicada por sistema y actualizaciones mayores con informe.
-- **Automatización e IA:** Bash, Python y Node para operar; IA aplicada al desarrollo.
+- **Datos:** PostgreSQL y MariaDB, una base dedicada por sistema y actualizaciones mayores con informe.
+- **Automatización e IA:** scripts en Node y automatización de tareas para operar; IA aplicada al desarrollo.
 - **Videojuegos:** Godot 4 y GDScript; un mundo abierto mexicano con estética de PlayStation 1.
 - **Video programático:** videos hechos con código, con HyperFrames y FFmpeg.
 

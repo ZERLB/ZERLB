@@ -47,7 +47,7 @@
   <g transform="translate(64 268)">
     <rect x="0" y="0" width="610" height="34" rx="10" fill="#0a0f1d" stroke="#ffffff" stroke-opacity=".1"/>
     <text x="16" y="23" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$</text>
-    <text x="32" y="23" fill="#e6e9f2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">whoami → dev + sysadmin · Linux · Node/TS · MySQL/PG</text>
+    <text x="32" y="23" fill="#e6e9f2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">whoami → dev + sysadmin · Linux · Node/TS · PostgreSQL/MariaDB</text>
     <rect x="584" y="10" width="8" height="16" fill="#60a5fa">
       <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
     </rect>
